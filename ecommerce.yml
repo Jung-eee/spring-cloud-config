@@ -3,4 +3,5 @@ token:
   secret: my-token_default
 
 gateway:
-  ip: 192.168.10.81
+  # ip: 192.168.10.81
+  ip: 172.30.1.49
